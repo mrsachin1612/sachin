@@ -12,12 +12,7 @@ steps {
 echo "helo all"
 }
 }
-stage ("s2") {
 
-steps { 
-echo "helo all"
-}
-}
 }
 
 }
